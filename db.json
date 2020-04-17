@@ -1,0 +1,11 @@
+{
+  "pavilions": [
+    {
+      "id": 1,
+      "title": "Павильон1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
